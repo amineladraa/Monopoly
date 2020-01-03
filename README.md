@@ -1,2 +1,2 @@
 Monopoly
-Joueur
+Joueurs
